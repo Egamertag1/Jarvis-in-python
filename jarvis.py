@@ -1,3 +1,4 @@
+THIS WILL COST MONEY NOT TO ME BUT OPENAI
 from gtts import gTTS #pip install gtts
 import pygame #pip install pygame
 import os #pip install os
@@ -9,7 +10,7 @@ import pyttsx3 #pip install pyttsx3
 
 print('running')
 # Set your OpenAI API key here
-api_key = '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'
+api_key = 'YOUR API KEY'
 
 # Initialize the OpenAI API client
 openai.api_key = api_key
