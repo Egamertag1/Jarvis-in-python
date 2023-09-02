@@ -1,4 +1,4 @@
-THIS WILL COST MONEY NOT TO ME BUT OPENAI
+#THIS WILL COST MONEY NOT TO ME BUT OPENAI
 from gtts import gTTS #pip install gtts
 import pygame #pip install pygame
 import os #pip install os
